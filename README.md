@@ -29,7 +29,7 @@ sudo dnf install cmake gcc-c++ gdb git libstdc++-static mesa-libGL-devel SDL2-de
 
 ===================
 
-#### Download Kali:
+#### Download tonka:
 
 ```bash
 git clone --recursive https://github.com/ArnoldasMk/Kali
