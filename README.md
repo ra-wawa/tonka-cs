@@ -1,9 +1,9 @@
 ## What is tonka?
 tonka is an Open Source Linux Cheat For Counter Strike : Global Offensive. 
-ok so basically this is my project o hopefully make me understand c and c++ ok yes haha
+ok so basically this is my project to hopefully make me understand c and c++ ok yes haha
 This cheat is a fork of a fork a of a fork a of a fork a of a fork: 
 
-Linux Basehook -> Aimtux -> Fuzion -> MissedIT -> EyeHook -> Kali.
+Linux Basehook -> Aimtux -> Fuzion -> MissedIT -> EyeHook -> Kali -> tonka.
 ## Compiling
 
 **Note:** _Do NOT download or compile as the root user._
